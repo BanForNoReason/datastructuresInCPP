@@ -147,3 +147,14 @@ _A structured roadmap to master all core data structures for FAANG-level intervi
 
 ---
 Alt Source: https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/
+---
+C++ DSA
+Reference Source Vectors in C++: https://www.geeksforgeeks.org/vector-in-cpp-stl/
+--- ✅ Read Documentation | ❌ Unread Documentation
+✅ Useful document for C++ keywords: https://www.geeksforgeeks.org/keywords-in-c/?ref=next_article
+Document for C++ Pointer vs Reference: https://www.geeksforgeeks.org/pointers-vs-references-cpp/
+Document for C++ Pointers and Reference: https://www.geeksforgeeks.org/pointers-and-references-in-c/
+Document for C++ Pointer: https://www.geeksforgeeks.org/cpp-pointers/?ref=shm
+Document for C++ Exception Handling: https://www.geeksforgeeks.org/exception-handling-c/?ref=shm
+Document for C++ Memory Management: https://www.geeksforgeeks.org/exception-handling-c/?ref=shm
+Document for C++ Top Asked Question About C++: https://www.geeksforgeeks.org/cpp-interview-questions/?ref=shm
