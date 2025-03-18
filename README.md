@@ -4,13 +4,13 @@ _A structured roadmap to master all core data structures for FAANG-level intervi
 ---
 
 ## **1. Arrays (Vectors in C++)**
-❌ Understanding Arrays (Properties, Use Cases)  
-❌ Accessing Elements by Index  
-❌ Modifying Elements  
-❌ Appending Elements (`push_back()`)  
-❌ Inserting at Specific Index (`insert()`)  
-❌ Removing Elements (`erase()`, `pop_back()`)  
-❌ Iterating Through an Array (`for` loops, range-based loops)  
+✅ Understanding Arrays (Properties, Use Cases)  
+✅ Accessing Elements by Index  
+✅ Modifying Elements  
+✅ Appending Elements (`push_back()`)  
+✅ Inserting at Specific Index (`insert()`)  
+✅ Removing Elements (`erase()`, `pop_back()`)  
+✅ Iterating Through an Array (`for` loops, range-based loops)  
 ❌ Find Maximum in an Array (`std::max_element()`, manual approach)  
 ❌ Find Second Maximum in an Array  
 ❌ Handling Edge Cases (Empty Arrays, Duplicates)  
