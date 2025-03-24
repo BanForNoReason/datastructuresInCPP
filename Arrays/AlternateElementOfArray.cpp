@@ -23,8 +23,9 @@ vector<int> alternateElement(const vector<int>& arr) {
 }
 
 int main() {
-    vector<int> arr = {10, 20, 30, 40, 50};
-    vector<int> res = alternateElement(arr);
+    vector<int> arr1 = {10, 20, 30, 40, 50};
+    vector<int> arr2 =  {-5, 1, 4, 2, 12};
+    vector<int> res = alternateElement(arr2);
 
     for (int x : res) {
         cout << x << " ";
